@@ -5,7 +5,7 @@
 
 body {
   background-color: #fff;
-  background: url("travelworthy-backdrop.jpg") no-repeat center center fixed;
+  background-image: url("travelworthy-backdrop.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,7 +14,8 @@ body {
   font-family: 'Open Sans', sans-serif;}
 
 h1 {
-  background: #1e1b1e url("travelworthy-logo.gif") no-repeat;
+  background-color:  #1e1b1e;
+  background-image: url("travelworthy-logo.gif") no-repeat;
   width: 230px;
   height: 180px;
   float: left;
